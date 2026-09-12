@@ -1,9 +1,9 @@
 # Mvua Protocol Web
 
-[![CI](https://github.com/mvua-protocol/mvua-app/actions/workflows/ci.yml/badge.svg)](./.github/workflows/ci.yml)
+[![CI](https://github.com/Mvua-Protocol/mvua-app/actions/workflows/ci.yml/badge.svg)](./.github/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
-**The web layer of [Mvua Protocol](https://github.com/mvua-protocol/mvua-contracts): parametric climate insurance on Stellar.**
+**The web layer of [Mvua Protocol](https://github.com/Mvua-Protocol/mvua-contract): parametric climate insurance on Stellar.**
 
 Mvua lets smallholder farmers and climate exposed communities buy micro insurance policies in USDC and get paid automatically when on chain weather data shows a failed season. This app is the window into that protocol: pool dashboards, policy purchase, and a payout explorer, served by Next.js and deployed on Vercel.
 
@@ -24,10 +24,10 @@ Implementation starts in Phase 3 of the program roadmap; this repository current
 
 ## Getting started
 
-Prerequisites: Node.js 22 (see `.nvmrc`), npm 10+, a [Freighter](https://www.freighter.app/) wallet for testnet interaction.
+Prerequisites: Node.js 24 (see `.nvmrc`), npm 11+, a [Freighter](https://www.freighter.app/) wallet for testnet interaction.
 
 ```bash
-git clone https://github.com/mvua-protocol/mvua-app
+git clone https://github.com/Mvua-Protocol/mvua-app
 cd mvua-app
 nvm use
 npm install

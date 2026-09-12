@@ -12,4 +12,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - CI: toolchain check, commit lint, and secret scanning workflows.
 - Pinned Node version and repository configuration.
 
-[Unreleased]: https://github.com/mvua-protocol/mvua-app/compare/...HEAD
+[Unreleased]: https://github.com/Mvua-Protocol/mvua-app/compare/...HEAD
