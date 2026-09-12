@@ -1,0 +1,25 @@
+{
+  "name": "mvua-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Web layer of Mvua Protocol: parametric climate insurance on Stellar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvua-protocol/mvua-app"
+  },
+  "engines": {
+    "node": ">=22.14.0 <23"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "e2e": "playwright test"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,32 @@
+# Dependencies
+/node_modules
+
+# Next.js
+/.next/
+/out/
+next-env.d.ts
+
+# Production
+/build
+
+# Testing
+/coverage
+/playwright-report/
+/test-results/
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
