@@ -15,6 +15,10 @@
   <b>The web layer of <a href="https://github.com/Mvua-Protocol/mvua-contract">Mvua Protocol</a>: parametric climate insurance on Stellar.</b>
 </p>
 
+<p align="center">
+  <a href="https://mvua-site.vercel.app"><b>mvua-site.vercel.app</b></a>
+</p>
+
 Mvua lets smallholder farmers and climate exposed communities buy micro insurance policies in USDC and get paid automatically when on chain weather data shows a failed season. This app is the window into that protocol: pool dashboards, policy purchase, and a payout explorer, served by Next.js and deployed on Vercel.
 
 > Status: **pre alpha**, in active development. The app targets the Stellar testnet against contracts under active development.
