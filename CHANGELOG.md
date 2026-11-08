@@ -10,6 +10,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Brand assets in `assets/` (the shared raindrop logo, horizontal lockup, and a system map README banner) and a rewritten README covering the app's place in the whole project, planned surfaces, environment, and setup.
 
+### Fixed
+
+- The contributing guide named Node.js 22; it now matches the Node.js 24 pin in `.nvmrc` and `engines`.
+
 ## [0.1.0] - 2026-09-12
 
 ### Added

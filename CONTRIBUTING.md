@@ -8,7 +8,7 @@ By participating you agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Development setup
 
-1. Node.js 22 (`.nvmrc` pins the exact version; `nvm use`).
+1. Node.js 24 (`.nvmrc` pins the exact version; `nvm use`).
 2. `npm install`.
 3. `cp .env.example .env.local` and fill in testnet values.
 4. `npm run dev` and confirm the app loads before you start changing things.
